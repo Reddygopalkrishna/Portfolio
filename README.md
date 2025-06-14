@@ -86,7 +86,6 @@ Open [http://localhost:5173](http://localhost:5173/) in your browser to view the
 
 - LinkedIn: [Reddy Gopal Krishna](https://www.linkedin.com/in/reddy-gopal-krishna-p-55242022b/)
 - GitHub: [ReddyGopalKrishna](https://github.com/ReddyGopalKrishna)
-- Twitter: [@ReddyGopalKrish](https://twitter.com/ReddyGopalKrish)
 - Instagram: [@reddygopalkrishna](https://www.instagram.com/reddygopalkrishna/)
 - Email: reddygohjpl@gmail.com
 - Phone: +91 7989875331
